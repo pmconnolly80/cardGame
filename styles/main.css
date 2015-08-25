@@ -1,3 +1,31 @@
+body {
+  background-color: #90C3D4;
+  background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  -webkit-background-size: cover;
+  font-family: 'Lato', sans-serif;
+  color: white;
+  text-shadow: 2 2 3px #FF0000;
+  text-align: center; }
 
+.container-fluid {
+  border-color: black;
+  border-radius: 3px;
+  text-align: center; }
+
+#playerOneZone {
+  border-color: black;
+  padding: 25px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+#playerTwoZone {
+  border-color: black;
+  padding: 25px;
+  border-radius: 3px;
+  text-align: center;
+}
 
 /*# sourceMappingURL=main.css.map */
